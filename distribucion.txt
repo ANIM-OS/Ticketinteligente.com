@@ -1,0 +1,93 @@
+ID
+Historia de Usuario
+Rol
+Puntos
+Responsable
+US-01
+Registro de usuario
+Usuario
+3
+Integrante 1
+US-02
+Inicio y cierre de sesión
+Usuario
+3
+Integrante 1
+US-03
+Gestión de rol asistente y organizador
+Usuario / Organizador
+5
+Integrante 1
+US-04
+Publicación y edición de eventos
+Organizador
+5
+Integrante 2
+US-05
+Búsqueda y filtrado de eventos
+Asistente
+5
+Integrante 2
+US-06
+Compra de entradas
+Asistente
+5
+Integrante 3
+US-07
+Generación y consulta de entrada digital con QR
+Asistente
+3
+Integrante 3
+US-08
+Validación de entradas mediante QR (check-in)
+Organizador
+5
+Integrante 3
+US-09
+Gestión de aforo y disponibilidad en tiempo real
+Asistente / Organizador
+8
+Integrante 3
+US-10
+Recomendación personalizada de eventos
+Asistente
+8
+Roger
+US-11
+Panel de ventas del organizador
+Organizador
+5
+Integrante 2
+US-12
+Exportación de reportes de ventas
+Organizador
+5
+Integrante 2
+US-13
+Calificación y reseñas de eventos
+Asistente
+5
+Integrante 1
+US-14
+Notificaciones de eventos
+Asistente
+5
+Roger
+US-15
+Moderación de eventos y usuarios
+Administrador
+5
+Integrante 1
+US-16
+Asistente conversacional sobre eventos
+Asistente
+5
+Roger
+US-17
+Recuperación y actualización de información mediante RAG
+Sistema / Asistente
+8
+Roger
+
+ 
+
